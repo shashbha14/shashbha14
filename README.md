@@ -20,7 +20,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🔭 Currently working as an **AI Engineer Intern** at **Codec Technologies**
 - 🤝 Open to collaborating on **AI/ML**, **Full Stack Development**, and **Generative AI** projects
 - 💛 Exploring **LLMs (Gemini, GPT)** and **Computer Vision**
 - 🌱 Deep diving into **Data Structures & Algorithms** and **System Design**
