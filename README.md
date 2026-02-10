@@ -1,25 +1,21 @@
 <div align="center">
   <!-- Use your GitHub avatar (automatically updates with your profile picture) -->
-  <img src="https://github.com/shashbh14.png" width="150" style="border-radius: 50%;" />
-  
-  <!-- OR uncomment one of these for a different GIF: -->
-  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" /> (Coding Cat) -->
-  <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj755fw9X/giphy.gif" width="150" /> (Waving Robot) -->
-  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" /> (Hacker Mode) -->
+  <a href="https://github.com/shashbha14">
+    <img src="https://github.com/shashbha14.png" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+  </a>
 </div>
 
-<h1 align="center">Hey there! I'm Shashwati Bhattacharya <img src="https://media.giphy.com/media/HVr4gFjIDnZPnn7Y0j/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there! I'm Shashwati Bhattacharya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;"></h1>
 
 <p align="center">
-  <a href="https://github.com/shashbh14">
+  <a href="https://github.com/shashbha14">
     <img src="https://img.shields.io/badge/Back-37a7df?style=for-the-badge&logo=github&logoColor=white" alt="Back Button" />
   </a>
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="vertical-align: middle;"> About Me
 - 🤝 Open to collaborating on **AI/ML**, **Full Stack Development**, and **Generative AI** projects
 - 💛 Exploring **LLMs (Gemini, GPT)** and **Computer Vision**
 - 🌱 Deep diving into **Data Structures & Algorithms** and **System Design**
