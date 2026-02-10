@@ -1,16 +1,32 @@
-## Hi there 👋
+Hey there! I'm Shashwati Bhattacharya 
+Back Button
 
-<!--
-**shashbha14/shashbha14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
+🔭 Currently working as an AI Engineer Intern at Codec Technologies
+🤝 Open to collaborating on AI/ML, Full Stack Development, and Generative AI projects
+💛 Exploring LLMs (Gemini, GPT) and Computer Vision
+🌱 Deep diving into Data Structures & Algorithms and System Design
+🏅 GHCI'24 Scholar & Hack-o-Harbour Runner-Up
+⚡ Fun fact: I've solved 350+ problems on LeetCode!
+🌐 Let's Connect
+LinkedIn 
+Gmail LeetCode
 
-Here are some ideas to get you started:
+💻 Tech Arsenal
+Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ Python JavaScript SQL HTML5 CSS3
+
+Frameworks & Libraries
+
+React Next.js Node.js Express.js FastAPI Flutter
+
+AI & ML
+
+TensorFlow PyTorch Gemini API
+
+Let's learn, build, and grow together! 🚀
+
+Comment
+Ctrl+Alt+M
+
