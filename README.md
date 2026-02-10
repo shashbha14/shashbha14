@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZWN4M3B4dDJ4Y2Z4ZmZ4YmZ4ZmZ4YmZ4ZmZ4YmZ4ZmZ4/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
+  <!-- Use your GitHub avatar (automatically updates with your profile picture) -->
+  <img src="https://github.com/shashbh14.png" width="150" style="border-radius: 50%;" />
+  
+  <!-- OR uncomment one of these for a different GIF: -->
+  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" /> (Coding Cat) -->
+  <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj755fw9X/giphy.gif" width="150" /> (Waving Robot) -->
+  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" /> (Hacker Mode) -->
 </div>
 
 <h1 align="center">Hey there! I'm Shashwati Bhattacharya <img src="https://media.giphy.com/media/HVr4gFjIDnZPnn7Y0j/giphy.gif" width="35"></h1>
@@ -26,13 +32,13 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shashwati-bhattacharya" target="_blank">
+  <a href="https://www.linkedin.com/in/shashwati-bhattacharya-197589269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:starsb1402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/shashwati22101/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
@@ -58,7 +64,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+ 
 </p>
 
 **AI & ML**
